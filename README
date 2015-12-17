@@ -1,5 +1,12 @@
 **************************************INFO******************************************************
 
+Gra napisana w języku C w oparciu o bibliotekę allegro 5.
+
+Celem gry jest pokonanie tak dużej ilości przeciwników / bossów ile tylko to możliwe.
+Gra kończy się po śmierc :)
+
+W celu zmiany ustawień nalezy dokonać ręcznej modyfikacji pliku konfiguracyjnego "game.conf"
+
 Autor : KAMIL PIOTROWSKI
 
 Grafiki statków: 	MillionthVector (Creative Commons Attribution 4.0 International License)
