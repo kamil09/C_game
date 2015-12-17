@@ -1,0 +1,13 @@
+**************************************INFO******************************************************
+
+Autor : KAMIL PIOTROWSKI
+
+Grafiki statków: 	MillionthVector (Creative Commons Attribution 4.0 International License)
+			https://creativecommons.org/licenses/by/4.0/
+
+W niektórych grafikach wprowadzono modyfikacje.
+
+************************************COMPILE***************************************************
+RUN: ./compile.sh 	(wymagana biblioteka allegro 5 w systemie)
+*************************************PLAY*****************************************************
+RUN: ./game.play
