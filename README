@@ -1,20 +1,18 @@
 **************************************INFO******************************************************
 
-Gra napisana w języku C w oparciu o bibliotekę allegro 5.
+Simple game in C language basen on allegro 5 library.
 
-Celem gry jest pokonanie tak dużej ilości przeciwników / bossów ile tylko to możliwe.
-Gra kończy się po śmierc :)
+You must destroy as many enemies as you can. :)
+Game ends when you die.
 
-W celu zmiany ustawień nalezy dokonać ręcznej modyfikacji pliku konfiguracyjnego "game.conf"
+Id you wan't to change settings, you should modify "game.conf" file.
 
-Autor : KAMIL PIOTROWSKI
+Author : KAMIL PIOTROWSKI
 
-Grafiki statków: 	MillionthVector (Creative Commons Attribution 4.0 International License)
+Ship graphics: 	MillionthVector (Creative Commons Attribution 4.0 International License)
 			https://creativecommons.org/licenses/by/4.0/
 
-W niektórych grafikach wprowadzono modyfikacje.
-
 ************************************COMPILE***************************************************
-RUN: ./compile.sh 	(wymagana biblioteka allegro 5 w systemie)
+RUN: ./compile.sh 	(required allegro 5 library)
 *************************************PLAY*****************************************************
 RUN: ./game.play
